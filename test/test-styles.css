@@ -1,0 +1,9 @@
+body{
+    background-color: grey;
+}
+
+.triplets{
+    background-image: url("triplets.png");
+    background-repeat: no-repeat;
+    height: 1080px;
+}
